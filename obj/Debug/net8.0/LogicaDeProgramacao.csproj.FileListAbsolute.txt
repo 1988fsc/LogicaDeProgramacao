@@ -1,0 +1,14 @@
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\bin\Debug\net8.0\LogicaDeProgramacao.exe
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\bin\Debug\net8.0\LogicaDeProgramacao.deps.json
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\bin\Debug\net8.0\LogicaDeProgramacao.runtimeconfig.json
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\bin\Debug\net8.0\LogicaDeProgramacao.dll
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\bin\Debug\net8.0\LogicaDeProgramacao.pdb
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.AssemblyInfoInputs.cache
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.AssemblyInfo.cs
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.dll
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\refint\LogicaDeProgramacao.dll
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.pdb
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.genruntimeconfig.cache
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\ref\LogicaDeProgramacao.dll
