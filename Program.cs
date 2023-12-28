@@ -124,3 +124,23 @@ Console.WriteLine("Conversão realizada");*/
             Console.WriteLine($"Raiz de {x} = {raiz}");
         }*/
 
+//Laço de repetição
+
+//For
+/*int numero = 5;
+
+for(int contador = 1; contador <=10; contador++)
+{
+Console.WriteLine($"{numero}x{contador} = {numero * contador}");
+}*/
+
+//While
+/*int numero =5;
+int contador = 1;
+
+while(contador <=10)
+{
+    Console.WriteLine($"{contador } Execução: {numero} x {contador} = {numero * contador}");
+    contador++;
+}*/
+

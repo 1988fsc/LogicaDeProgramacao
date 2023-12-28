@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msnbo\\OneDrive\\Área de Trabalho\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj": {}
+    "C:\\Users\\msnbo\\Desktop\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msnbo\\OneDrive\\Área de Trabalho\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj": {
+    "C:\\Users\\msnbo\\Desktop\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msnbo\\OneDrive\\Área de Trabalho\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj",
+        "projectUniqueName": "C:\\Users\\msnbo\\Desktop\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj",
         "projectName": "LogicaDeProgramacao",
-        "projectPath": "C:\\Users\\msnbo\\OneDrive\\Área de Trabalho\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj",
+        "projectPath": "C:\\Users\\msnbo\\Desktop\\Github\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj",
         "packagesPath": "C:\\Users\\msnbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msnbo\\OneDrive\\Área de Trabalho\\Github\\LogicaDeProgramacao\\obj\\",
+        "outputPath": "C:\\Users\\msnbo\\Desktop\\Github\\LogicaDeProgramacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

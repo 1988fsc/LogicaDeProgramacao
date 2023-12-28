@@ -12,3 +12,4 @@ C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\n
 C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.pdb
 C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.genruntimeconfig.cache
 C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\ref\LogicaDeProgramacao.dll
+C:\Users\msnbo\OneDrive\Área de Trabalho\Github\LogicaDeProgramacao\obj\Debug\net8.0\LogicaDeProgramacao.sourcelink.json
